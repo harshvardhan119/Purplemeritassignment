@@ -1,9 +1,4 @@
-Perfect 👍
-Here’s your **README.md** fully tailored for your submission.
 
----
-
-```markdown
 # Full Stack Developer Assessment – Harsh Vardhan Singh
 
 ## 📌 Project Overview
